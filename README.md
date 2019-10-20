@@ -1,9 +1,6 @@
 # Symbolic-Python
 
-갈길이 멀어도
-즐기며 가세나
-
-허허허 
+코딩으로 풀수 있는 산수를 왜? 손으로 푸냐..
 
 Symbolic Python for Economics Theory
 
