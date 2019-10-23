@@ -1,6 +1,6 @@
 # Symbolic-Python
 
-I am not a theory guy at all.
+
 
 Symbolic Python
 Tutorial gives an interative environment so that if you have a web-browser, you even don't need a python.
