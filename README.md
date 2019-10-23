@@ -1,6 +1,6 @@
 # Symbolic-Python
 
-코딩으로 풀수 있는 산수를 왜? 손으로 푸냐..
+I am not a theory guy at all.
 
 Symbolic Python
 Tutorial gives an interative environment so that if you have a web-browser, you even don't need a python.
