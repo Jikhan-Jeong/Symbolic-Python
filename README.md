@@ -10,3 +10,4 @@ Tutorial: https://docs.sympy.org/latest/tutorial/gotchas.html#symbols
 
 Ref: https://docs.sympy.org/latest/tutorial/intro.html#what-is-symbolic-computation  
 Ref: https://pythonforundergradengineers.com/sympy-expressions-and-equations.html
+Ref: https://github.com/sympy/sympy/wiki/Linear-Algebra-Module (Sympy with Matrix)
