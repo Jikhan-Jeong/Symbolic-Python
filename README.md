@@ -1,9 +1,8 @@
-# Symbolic-Python
+# Symbolic Python
 
-
-
-Symbolic Python
 Tutorial gives an interative environment so that if you have a web-browser, you even don't need a python.
+
+(Install) https://github.com/sympy/sympy (for download) # install conda sympy (in torch_env)
 
 
 Tutorial: https://docs.sympy.org/latest/tutorial/gotchas.html#symbols
